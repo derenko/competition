@@ -1,6 +1,3 @@
 # olimp
 
-IN PYTHON WE TRUST
-
-yeeah boyyy
-to valhalaaa
+<b>IN PYTHON WE TRUST</b>
