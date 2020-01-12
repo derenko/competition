@@ -1,3 +1,3 @@
-# olimp
+# competition
 
-<b>IN PYTHON WE TRUST</b>
+<b>student competition in programming</b>
