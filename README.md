@@ -1,3 +1,3 @@
-# competition
+# student competitions
 
-<b>student competition in programming</b>
+<b>student competitions in programming</b>
