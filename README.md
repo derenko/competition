@@ -1,3 +1,3 @@
-univercity-competition
+university-competition
 
-<b>student competitions in programming</b>
+python programming
